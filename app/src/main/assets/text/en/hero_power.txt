@@ -1,0 +1,167 @@
+ <b>Passive Hero Power</b>
+Whenever an enemy dies, raise a 5/5 Skeleton. COST:0 <b>Hero Power</b>
+Summon a 1/1 Spectator with <b>Taunt</b>. COST:0 <b>Hero Power</b>
+Each player draws 2 cards. COST:0 <b>Passive Hero Power</b>
+Whoever controls the Rod of the Sun is <b>Immune.</b> COST:0 Add a random legendary minion to your hand. It costs (4) less. COST:2 <b>Hero Power</b>
+Change the Health of enemy minions to 1. COST:0 <b>Passive Hero Power</b>
+All cards cost (1). You are capped at 2 Mana Crystals, and opponent at 1. COST:0 <b>Hero Power</b>
+Summon a Hungry Naga. COST:0 <b>Hero Power</b>
+Return a random enemy minion to your opponent's hand. COST:3 Encounter new obstacles! COST:0 <b>Hero Power</b>
+Summon a 3/3 Flamewaker Acolyte. COST:2 <b>Hero Power</b>
+Deal 2 damage to all enemies. If any die, summon a slime. COST:0 <b>Hero Power</b>
+Draw a card. Gain a Mana Crystal. COST:2 <b>Hero Power</b>
+Deal $8 damage to random enemy. COST:2 <b>Hero Power</b>
+Deal 3 damage to the enemy hero. COST:2 <b>Hero Power</b>
+Give your lowest attack minion <b>Divine Shield</b> and <b>Taunt</b>. COST:2 <b>Hero Power</b>
+Gain 4 Armor. COST:2 <b>Hero Power</b>
+Nefarian rains fire from above! COST:0 <b>Hero Power</b>
+Deal 4 damage. COST:1 <b>Hero Power</b>
+Restore #2 Health. COST:2 Find an artifact. COST:2 <b>Hero Power</b>
+Activate Magmatron! COST:8 <b>Hero Power</b>
+At the end of your turn, add a Brood Affliction card to your opponent's hand. COST:0 Draw a card.
+Give your opponent a Wish. COST:0 <b>Hero Power</b>
+Add a random minion to your hand. It costs (3) less. COST:2 <b>Hero Power</b>
+Let the games begin! COST:1 Encounter new obstacles! COST:0 <b>Passive Hero Power</b>
+Your Hero and your minions can only take 1 damage at a time. COST:0 <b>Hero Power</b>
+Deal 2 damage to the left-most enemy minion. COST:1 <b>Hero Power</b>
+Nefarian rains fire from above! COST:0 <b>Hero Power</b>
+Discard a random card. COST:1 <b>Hero Power</b>
+Deal 3 damage to the enemy hero. COST:0 <b>Hero Power</b>
+Give each player a random card. It costs (0). COST:0 <b>Passive Hero Power</b>
+All cards cost (1). Players are capped at 1 Mana Crystal. COST:0 <b>Hero Power</b>
+Equip a weapon that grows as your opponent plays cards. COST:0 <b>Hero Power</b>
+Activate Magmatron! COST:6 <b>Hero Power</b>
+Activate Toxitron! COST:2 Find an artifact. COST:0 <b>Hero Power</b>
+Destroy a random enemy minion. COST:2 <b>Hero Power</b>
+Equip a 1/2 Dagger. COST:2 <b>Passive Hero Power</b>
+ Enemy spells cost (11). Swap at the start of your turn. COST:0 <b>Hero Power</b>
+Equip a 2/2 Weapon. COST:2 Draw a card. Gain a Mana Crystal. Give your opponent a Wish. COST:0 <b>Hero Power</b>
+Summon two 2/1 Bone Constructs. COST:2 <b>Hero Power</b>
+Summon two 1/1 Recruits. COST:2 <b>Hero Power</b>
+Gain 2 Armor and +2 Attack this turn. COST:2 <b>Hero Power</b>
+Deal 1 damage to all enemy minions. If any die, summon a slime. COST:2 <b>Hero Power</b>
+Deal $2 damage to the enemy hero. COST:2 <b>Hero Power</b>
+Summon a 1/1 Silver Hand Recruit. COST:2 <b>Hero Power</b>
+Each player draws 3 cards. Gain a Mana Crystal. COST:0 <b>Hero Power</b>
+Return a random enemy minion to your opponent's hand. COST:2 <b>Hero Power</b>
+Add a random minion to your hand. It costs (3) less. COST:0 <b>Hero Power</b>
+Destroy all enemy minions that aren't <b>Frozen</b>. COST:0 <b>Hero Power</b>
+Return 2 random enemy minions to your opponent's hand. COST:0 <b>Hero Power</b>
+Draw cards until you have as many in hand as your opponent. COST:0 <b>Passive Hero Power</b>
+ Enemy minions cost (2) more. Swap at the start of your turn. COST:0 <b>Hero Power</b>
+Gain 2 Armor. COST:2 <b>Hero Power</b>
+Summon two 2/1 minions. COST:2 <b>Hero Power</b>
+Summon three 1/1 Whelps. COST:2 <b>Hero Power</b>
+Give all Corrupted Eggs +1 Health, then summon one. COST:1 <b>Hero Power</b>
+Draw a card. COST:2 At the end of your turn, replace all minions with new ones that cost (1) more. COST:0 <b>Hero Power</b>
+Deal $3 damage to the enemy hero. COST:2 <b>Hero Power</b>
+ Summon a Statue for both players. COST:1 <b>Hero Power</b>
+Draw a card and take 2 damage. COST:2 <b>Hero Power</b>
+Destroy a random enemy minion. COST:0 <b>Hero Power</b>
+Draw 2 cards. COST:0 Escape the Troggs! COST:0 <b>Hero Power</b>
+Restore #4 Health. COST:2 <b>Hero Power</b>
+Deal 5 damage to the enemy hero if they have any unspent Mana. COST:0 <b>Hero Power</b>
+Deal 1 damage. COST:2 <b>Hero Power</b>
+Summon Gyth. Get a new Hero Power. COST:4 <b>Hero Power</b>
+Summon a random Totem. COST:2 <b>Hero Power</b>
+Summon a 1/1 Silver Hand Recruit. COST:2 <b>Hero Power</b>
+Summon two 1/1 Orcs with <b>Taunt</b>. Get a new Hero Power. COST:2 <b>Hero Power</b>
+Deal $2 damage. COST:2 <b>Passive Hero Power</b>
+Your hero is <b>Immune</b>. COST:0 <b>Hero Power</b>
+Summon a Totem of your choice. COST:2 Destroy your weapon, gaining a random one. COST:2 <b>Hero Power</b>
+At the end of your turn, add a Brood Affliction card to your opponent's hand. COST:0 <b>Hero Power</b>
+Summon two 2/1 Bone Constructs. COST:2 <b>Hero Power</b>
+Activate a random Tron. COST:2 <b>Hero Power</b>
+Activate Arcanotron! COST:0 <b>Hero Power</b>
+Deal $1 damage. COST:2 <b>Passive Hero Power</b>
+ Enemy minions cost (2) more. Swap at the start of your turn. COST:0 <b>Hero Power</b>
+Fire a missile for each card in your opponent's hand. COST:2 <b>Hero Power</b>
+Deal 2 damage to the enemy hero and <b>Freeze</b> it. COST:0 <b>Hero Power</b>
+Add a random card to your hand. It costs (0). COST:0 <b>Hero Power</b>
+Summon a 5/4 Dragonkin. Get a new Hero Power. COST:1 <b>Hero Power</b>
+Deal $8 damage to a random enemy. COST:2 <b>Hero Power</b>
+Increase your weapon's attack by 1 COST:2 <b>Hero Power</b>
+Draw a card. COST:2 <b>Hero Power</b>
+Deal $3 damage. COST:2 <b>Hero Power</b>
+Gain 4 Armor. COST:2 <b>Hero Power</b>
+Summon a 5/1 Magma Rager. COST:2 <b>Hero Power</b>
+Summon a 1/1 Spectator with <b>Taunt</b>. COST:1 <b>Passive Hero Power</b>
+ Enemy minions cost (11). Swap at the start of your turn. COST:0 <b>Hero Power</b>
+Deal 10 damage to the enemy hero if they have any unspent Mana. COST:0 <b>Hero Power</b>
+Summon a 3/1 Dragonkin. Get a new Hero Power. COST:1 <b>Passive Hero Power</b>
+Your hero is <b>Immune</b> while the staff charges. COST:0 <b>Passive Hero Power</b>
+Whenever an enemy dies, raise a 1/1 Skeleton. COST:0 <b>Passive Hero Power</b>
+Whenever a minion is summoned, swap its Attack and Health. COST:0 <b>Hero Power</b>
+Activate Toxitron! COST:4 <b>Hero Power</b>
+Change the Health of all minions to 1. COST:2 <b>Hero Power</b>
+Summon a 1/1 Hungry Naga. COST:0 Give your hero +2 attack this turn. COST:2 <b>Hero Power</b>
+Activate Arcanotron! COST:2 <b>Hero Power</b>
+Summon a 3/1 Nerubian. COST:2 <b>Hero Power</b>
+Give all Corrupted Eggs +1 Health, then summon one. COST:0 <b>Hero Power</b>
+Put two minions from your deck and one from your opponent's into the battlefield. COST:0 <b>Hero Power</b>
+Destroy a minion. COST:4 <b>Hero Power</b>
+Summon two 2/2 Orcs with <b>Taunt</b>. Get a new Hero Power. COST:2 <b>Hero Power</b>
+Deal 3 damage to the enemy hero and <b>Freeze</b> it. COST:0 <b>Hero Power</b>
+Draw a card. Gain a Mana Crystal. COST:1 Resurrect a random friendly minion that died this game. COST:2 Escape the Troggs! COST:0 <b>Hero Power</b>
+Activate a random Tron. COST:2 <b>Hero Power</b>
+Summon a 5/1 Hungry Naga. COST:0 <b>Hero Power</b>
+Deal $2 damage. COST:2 <b>Hero Power</b>
+Gain 2 Armor. COST:2 <b>Hero Power</b>
+Put a random spell from your opponent's class into your hand. COST:1 <b>Hero Power</b>
+Activate a random Tron. COST:4 <b>Hero Power</b>
+Activate Electron! COST:4 <b>Hero Power</b>
+Summon a 3/3 Flamewaker Acolyte. COST:2 <b>Hero Power</b>
+Activate Electron! COST:6 <b>Hero Power</b>
+Take control of a random enemy minion until end of turn. COST:8 <b>Hero Power</b>
+Summon a 2/1 Hungry Naga. COST:0 <b>Hero Power</b>
+Equip a weapon that grows as your opponent plays cards. COST:1 <b>Hero Power</b>
+Put a minion from each deck into the battlefield. COST:0 Add a random minion that costs (5) or less to your hand COST:2 Add a random minion to your hand. It costs (2) less. COST:2 <b>Hero Power</b>
+Deal 1 damage to all minions. If any die, summon a slime. COST:2 <b>Hero Power</b>
++1 Attack this turn.    +1 Armor. COST:2 <b>Hero Power</b>
+Put a random spell from your opponent's class into your hand. COST:2 <b>Hero Power</b>
+Take control of a random enemy minion. COST:8 <b>Hero Power</b>
+Draw 2 cards. COST:5 <b>Hero Power</b>
+Summon a 4/4 Nerubian. COST:2 <b>Hero Power</b>
+Deal 2 damage randomly split among all enemies. COST:2 <b>Hero Power</b>
+Swap the Attack and Health of all minions. COST:0 Give your hero +5 attack this turn. COST:2 <b>Hero Power</b>
+Deal $3 damage to the enemy hero. COST:2 <b>Hero Power</b>
+Summon two 4/2 Bone Constructs. COST:2 <b>Hero Power</b>
+Summon a 1/1 Silver Hand Murloc. COST:2 Level up all the spells in your hand and deck. COST:2 <b>Hero Power</b>
+Deal $8 damage to a random enemy. TWICE. COST:2 <b>Hero Power</b>
+Deal $2 damage. COST:2 <b>Hero Power</b>
+Summon three 1/1 Whelps. Get a new Hero Power. COST:2 <b>Hero Power</b>
+Put a minion from each deck into the battlefield. COST:2 <b>Hero Power</b>
+Summon two 1/1 Recruits. COST:2 <b>Hero Power</b>
+Deal 1 damage to all minions. COST:1 <b>Hero Power</b>
+Put a random spell from your opponent's class into your hand. COST:1 <b>Hero Power</b>
+Deal $1 damage. COST:2 <b>Hero Power</b>
+Deal $2 damage. COST:2 <b>Hero Power</b>
+Add a random spell from any class to your hand. It costs (0). COST:2 <b>Hero Power</b>
+Deal $1 damage. COST:2 At the end of your turn, replace all minions with new ones. Yours cost (1) more. COST:0 <b>Hero Power</b>
+Deal $2 damage. COST:2 <b>Hero Power</b>
+Deal 3 damage to the left-most enemy minion. COST:0 <b>Hero Power</b>
+Let the games begin! COST:1 <b>Passive Hero Power</b>
+ Phaerix is <b>Immune</b> while he controls the Rod of the Sun. COST:0 <b>Hero Power</b>
+Play a random Stormwind Soldier. COST:2 <b>Hero Power</b>
+Summon a 1/1 Spectator with <b>Taunt</b>. COST:2 <b>Hero Power</b>
+Change the Health of enemy minions to 1. COST:2 <b>Hero Power</b>
+Deal 30 damage. COST:2 <b>Hero Power</b>
+Summon Gyth. Get a new Hero Power. COST:4 <b>Hero Power</b>
+Summon a 1/3 Flamewaker Acolyte. COST:2 <b>Hero Power</b>
+Summon three 2/2 Whelps. Get a new Hero Power. COST:2 <b>Hero Power</b>
+Destroy a random damaged enemy minion. COST:1 <b>Hero Power</b>
+Summon a 6/6 Infernal. COST:2 <b>Passive Hero Power</b>
+Minions' Attack and Health are swapped.
+Your minions have +2/+2. COST:0 <b>Hero Power</b>
+Deal 3 damage. COST:2 <b>Hero Power</b>
+Deal $3 damage to random enemy, for now... COST:2 <b>Passive Hero Power</b>
+ Enemy spells cost (2) more. Swap at the start of your turn. COST:0 <b>Hero Power</b>
+Summon a 1/3 Flamewaker Acolyte. COST:2 <b>Hero Power</b>
+Fire a missile for each card in your opponent's hand. COST:1 <b>Hero Power</b>
+ Deal 3 damage to a random enemy minion. COST:1 <b>Hero Power</b>
+Summon a Hungry Naga. COST:0 <b>Passive Hero Power</b>
+ Enemy minions cost (11). Swap at the start of your turn. COST:0 <b>Hero Power</b>
+ Summon a 0/2 Statue for both players. COST:1 <b>Hero Power</b>
+Destroy a minion. COST:4 <b>Hero Power</b>
+Deal $2 damage to the enemy hero. COST:2 <b>Passive Hero Power</b>
+Your Hero can only take 1 damage at a time. COST:0
